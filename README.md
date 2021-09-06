@@ -5,3 +5,5 @@ I'm trawling through old magazines, publications, etc. that have lapsed into the
 They're available for free, but you can support me at https://paypal.me/delsdoodles if you like (or https://ko-fi.com/welshpixie).
 
 Find me here: https://mastodon.art/@welshpixie
+
+The folder 'Valhalla' contains art traced by Elena ``of Valhalla'' Grandi and very kindly provided for including in this pack. https://github.com/valholl <3
